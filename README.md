@@ -1,2 +1,2 @@
 # Amazing-World-of-NN
-My projects used neural networks
+Tumentsev's Neuroinformatic Course
